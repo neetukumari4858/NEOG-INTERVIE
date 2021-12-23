@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  }
+  #btn {
+    display: block;
+    margin: auto;
+    padding: 0.5rem;
+  }
+  #input1 {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    font-size: larger;
+    background-color:rgb(6, 255, 6)
+  }
+  body {
+    text-align: center;
+  }
+  

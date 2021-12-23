@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap");
+:root {
+  --primary-color: red;
+  --secondary-color: blue;
+}
+body {
+  font-family: "Bakbak One", cursive;
+}
+h1 {
+  color: var(--primary-color);
+}
+h2 {
+  color: var(--secondary-color);
+}
+#btn {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  padding: 0.5rem 1rem;
+}

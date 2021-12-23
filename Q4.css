@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+  }
+#Allbutton {
+  text-align: center;
+  margin-top: 2rem;
+}
+#inp{
+  display: block;
+  margin: auto;
+  margin-top: 4rem;
+  padding: 1rem 2rem;
+}
+#output {
+  text-align: center;
+  margin-top: 2rem;
+}
+  

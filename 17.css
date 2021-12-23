@@ -1,0 +1,30 @@
+#inp{
+    display: flex;
+    margin: auto;
+    margin-top:1rem;
+    padding: 1rem 4rem;
+    font-size: larger;
+
+    
+}
+#btn{
+    display: flex;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    font-size: larger;
+    
+    background-color: darkgray;
+    border-radius: 0.5rem;
+    border-color: crimson;
+}
+body{
+    margin-top: 4rem;
+    background-color: mediumslateblue;
+
+}
+#output{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: larger;
+}

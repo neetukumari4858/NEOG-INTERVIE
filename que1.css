@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+  }
+  #inp1 {
+    display: block;
+    margin: auto;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem 2rem;
+  }
+  #inp2 {
+    display: block;
+    margin-top: 2rem;
+    margin: auto;
+    padding: 0.5rem 2rem;
+  }
+  #all {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  h4 {
+    text-align: center;
+  }
+  #output {
+    text-align: center;
+  }
+  
